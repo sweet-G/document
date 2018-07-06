@@ -16,12 +16,9 @@
 </head>
 <body>
 	<h4>ап╠М</h4>
-<<<<<<< HEAD
 	<ul>
 		<li>11</li>
 		<li>22</li>
 	</ul>
-=======
->>>>>>> master
 </body>
 </html>
